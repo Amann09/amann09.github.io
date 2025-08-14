@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![something and nothing](/images/profile-pic2.jpg){: .align-right width="300px"}
+<!-- ![something and nothing](/images/profile-pic2.jpg){: .align-right width="300px"} -->
 👨🏻‍💻 I am a software developer and an aspiring <u>AI applied research scientist</u>.
 
 📚 Presently, I work as a research associate at the [Multi-Robot Autonomy Lab (MOON)](https://moonlab.iiserb.ac.in/), IISER Bhopal. At MOON Lab, I study diverse set of algorithms related to multi agent path finding and field robotics. I am also working on developing a 3D model of the [IISER Bhopal](https://www.iiserb.ac.in/tour) campus.
