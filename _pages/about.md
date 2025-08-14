@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I am a software developer and an aspiring AI applied research scientist.
+👨🏻‍💻 I am a software developer and an aspiring <u>AI applied research scientist</u>.
 
-📚 Presently, I work as a research associate at the Multi-Robot Autonomy Lab (MOON), IISER Bhopal. At MOON Lab, I study diverse set of algorithms related to multi agent path finding and field robotics. I am also working on developing a 3D model of the IISER Bhopal campus.
+📚 Presently, I work as a research associate at the [Multi-Robot Autonomy Lab (MOON)](https://moonlab.iiserb.ac.in/), IISER Bhopal. At MOON Lab, I study diverse set of algorithms related to multi agent path finding and field robotics. I am also working on developing a 3D model of the [IISER Bhopal](https://www.iiserb.ac.in/tour) campus.
 
 🤖 I have a keen interest in building AI systems for real-world problems.
 For the past year and a half, I have been broadly working in the area of machine learning and deep learning, due to which I have created several fundamental and advanced projects. Additionally, I have taken and completed various courses related to these areas.
 
 🔬 My research interests primarily lie in the areas of deep learning, computer vision, and robotics. In particular, I am highly interested in the applications of deep learning and computer vision in Autonomous Systems and Computational Imaging.
 
-A data-driven personal website
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -25,22 +25,35 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
 - [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- [Plotly](https://plotly.com/javascript/) for plotting -->
 
-Getting started
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Check status by going to the repository settings, in the "GitHub pages" section -->
 
-Site-wide configuration
+👨🏻‍🔬 Experience
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
+- [Research Associate](https://moonlab.iiserb.ac.in/) - **Multi-Robot Autonomy Lab, IISER Bhopal**
+  - Working on developing a 3D model of the whole IISERB campus using Photogrammetry techniques.
+  - Working on a design of an Autonomous Body-Board Boat for surface cleaning of water bodies. Do check out the design on [this](https://github.com/Amann09/pool_cleaning_with_net_structure) page.
+
+- [Research Intern](https://moonlab.iiserb.ac.in/) - **Multi-Robot Autonomy Lab, IISER Bhopal**
+  - Developed a coverage path planning method for a multi-robotic system: Tethered UAV-UGV System, under the guidance of Prof. [Dr. P.B. Sujit](https://scholar.google.com/citations?user=qqwyAwoAAAAJ&hl=en)
+  - Developed the controller's software architecture for UAV and UGV to traverse in a given simulation environment.
+
+
+- [Summer Intern](https://cse.iith.ac.in/) - **Department of CSE - IIT, Hyderabad**
+  - Wrote and tested the code for Data Protection Security Requirements which included understanding and analyzing the data, due to which gained the valuable skill of **Prompt Engineering**.
+  - Worked under Professor [Dr. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/) on the Project **"Indian Telecommunication Security Assurance Requirements (ITSAR)"**.
+
+
+<!-- Create content & metadata
 ------
 For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
@@ -58,4 +71,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
