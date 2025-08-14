@@ -1,15 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi 🙂, I'm Aman"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+👨🏻‍💻 I am a software developer and an aspiring AI applied research scientist.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+📚 Presently, I work as a research associate at the Multi-Robot Autonomy Lab (MOON), IISER Bhopal. At MOON Lab, I study diverse set of algorithms related to multi agent path finding and field robotics. I am also working on developing a 3D model of the IISER Bhopal campus.
+
+🤖 I have a keen interest in building AI systems for real-world problems.
+For the past year and a half, I have been broadly working in the area of machine learning and deep learning, due to which I have created several fundamental and advanced projects. Additionally, I have taken and completed various courses related to these areas.
+
+🔬 My research interests primarily lie in the areas of deep learning, computer vision, and robotics. In particular, I am highly interested in the applications of deep learning and computer vision in Autonomous Systems and Computational Imaging.
 
 A data-driven personal website
 ======
