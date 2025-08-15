@@ -14,9 +14,19 @@ redirect_from:
 📚 Presently, I work as a research associate at the [Multi-Robot Autonomy Lab (MOON)](https://moonlab.iiserb.ac.in/), IISER Bhopal. At MOON Lab, I study diverse set of algorithms related to multi agent path finding and field robotics. I am also working on developing a 3D model of the [IISER Bhopal](https://www.iiserb.ac.in/tour) campus.
 
 🤖 I have a keen interest in building AI systems for real-world problems.
-For the past year and a half, I have been broadly working in the area of machine learning and deep learning, due to which I have created several fundamental and advanced projects. Additionally, I have taken and completed various courses related to these areas.
+<!-- For the past year and a half, I have been broadly working in the area of machine learning and deep learning, due to which I have created several fundamental and advanced projects. Additionally, I have taken and completed various courses related to these areas. -->
 
-🔬 My research interests primarily lie in the areas of deep learning, computer vision, and robotics. In particular, I am highly interested in the applications of deep learning and computer vision in Autonomous Systems and Computational Imaging.
+🔬 Research Interests
+------
+
+- 3D reconstruction
+- Photogrammetry
+- Computer vision
+- Robotics
+- Computational Imaging
+
+> [! ]
+> My research interests primarily lie in the areas of deep learning, computer vision, and robotics. In particular, I am highly interested in the applications of deep learning and computer vision in Autonomous Systems and Computational Imaging.
 
 <!-- A data-driven personal website
 ======
