@@ -26,15 +26,7 @@ Skills
 ======
 * **Programming Languages:** Python, C, C++, MATLAB, Bash
 * **Tools:** ROS2, Docker, Gazebo Sim, Webots, Blender, Git/GitHub
-* **Libraries:**
-  * sklearn
-  * opencv
-  * numpy
-  * pandas
-  * matplotlib
-  * seaborn
-  * pillow
-  * networkx
+* **Libraries:** sklearn, opencv, numpy, pandas, matplotlib, seaborn, pillow, networkx
 * **AI / ML Frameworks** : tensorflow, keras, pytorch
 * **Technical Skills** : Image Processing, Prompt Engineering, Reverse Engineering, Coding
 * **Soft Skills** : Problem-Solving, Time Management, Self-Learning, Adaptability, Communication, Collaboration
@@ -42,7 +34,7 @@ Skills
 Online Courses / Certifications
 ======
 * **Camera and Imaging** - Columbia University by Shree Nayar [↗](https://fpcv.cs.columbia.edu/)
-* **Prompt Engineering for ChatGPT** - Vanderbilt University by Jules White [](https://www.coursera.org/account/accomplishments/certificate/NNNXSQXYZ8QZ)
+* **Prompt Engineering for ChatGPT** - Vanderbilt University by Jules White [↗](https://www.coursera.org/account/accomplishments/certificate/NNNXSQXYZ8QZ)
 * **Deep Learning Specialization**- DeepLearning.AI by Andrew Ng [↗](https://www.coursera.org/account/accomplishments/specialization/certificate/U2MWCFWV7SXD)
 * **Machine Learning Specialization** - Stanford University, Coursera by Andrew Ng [↗](https://www.coursera.org/account/accomplishments/specialization/certificate/PSAASSQBJA44)
 
