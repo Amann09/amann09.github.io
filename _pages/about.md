@@ -19,14 +19,15 @@ redirect_from:
 🔬 Research Interests
 ------
 
+- Structure from Motion (SfM)
 - 3D reconstruction
 - Photogrammetry
-- Computer vision
-- Robotics
+- Perception
 - Computational Imaging
+- Robotics
 
 
-> My research interests primarily lie in the areas of computer vision and robotics. In particular, I am highly interested in studying the applications of computer vision and robotics in 3D modeling, computational imaging and autonomous systems.
+> My research interests primarily lie in the areas of computer vision and robotics. In particular, I am highly interested in studying the applications of computer vision and robotics in 3D modeling, computational imaging and autonomous robotic systems.
 
 
 👨🏻‍🔬 Experience
