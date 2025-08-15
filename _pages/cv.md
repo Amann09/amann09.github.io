@@ -24,9 +24,9 @@ Work experience
   
 Skills
 ======
-* ==Programming Languages== : Python, C, C++, MATLAB, Bash
-* ==Tools== : ROS2, Docker, Gazebo Sim, Webots, Blender, Git/GitHub
-* ==Libraries==
+* **Programming Languages:** Python, C, C++, MATLAB, Bash
+* **Tools:** ROS2, Docker, Gazebo Sim, Webots, Blender, Git/GitHub
+* **Libraries:**
   * sklearn
   * opencv
   * numpy
@@ -35,9 +35,9 @@ Skills
   * seaborn
   * pillow
   * networkx
-* ==AI / ML Frameworks== : tensorflow, keras, pytorch
-* ==Technical Skills== : Image Processing, Prompt Engineering, Reverse Engineering, Coding
-* ==Soft Skills== : Problem-Solving, Time Management, Self-Learning, Adaptability, Communication, Collaboration
+* **AI / ML Frameworks** : tensorflow, keras, pytorch
+* **Technical Skills** : Image Processing, Prompt Engineering, Reverse Engineering, Coding
+* **Soft Skills** : Problem-Solving, Time Management, Self-Learning, Adaptability, Communication, Collaboration
 
 <!-- Publications
 ======
