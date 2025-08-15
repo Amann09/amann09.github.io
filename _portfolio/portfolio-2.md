@@ -1,6 +1,6 @@
 ---
 title: "Self Driving Car"
-excerpt: "It is an implementation of NVIDIA's End to End Learning for Self-Driving Cars research [paper](https://arxiv.org/pdf/1604.07316).<br/><img src='/images/Track_1_SDC.jpg'>"
+excerpt: "It is an implementation of NVIDIA's End to End Learning for Self-Driving Cars research [paper](https://arxiv.org/pdf/1604.07316).<br/><img src='/images/Track_1_SDC.jpg' width='300'>"
 collection: portfolio
 ---
 
