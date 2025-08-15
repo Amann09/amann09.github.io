@@ -12,4 +12,4 @@ Rock Paper Scissors Classifier system using MobileNet V2 CNN architecture.
 
 -------
 
-![rock_paper_scissor](/images/rock_paper_scissors.jpg){: .align-left width="500px"}
+![rock_paper_scissor](/images/rock_paper_scissors.jpg){: .align-center width="500px"}

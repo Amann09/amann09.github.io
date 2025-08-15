@@ -14,3 +14,7 @@ collection: portfolio
 - Designed the net structure such that it collects the maximum amount of garbage and retain it.
 
 - Design and Implementation for EcoBoat, can be found [here](https://github.com/Amann09/pool_cleaning_with_net_structure).
+
+
+--------
+![EcoBoat](/images/EcoBoat_in_pool.jpg){: .align-center width="500px"}

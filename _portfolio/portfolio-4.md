@@ -12,4 +12,4 @@ Real-Time: Parking Spot Detection System
 
 -------
 
-![parking_spot](/images/parking_spot_detection.png){: .align-left width="500px"}
+![parking_spot](/images/parking_spot_detection.png){: .align-center width="500px"}

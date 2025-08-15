@@ -11,4 +11,4 @@ Vehicle Tracking and Counting System
 
 -------
 
-![parking_spot](/images/vehicle_tracking_and_counting.png){: .align-left width="500px"}
+![parking_spot](/images/vehicle_tracking_and_counting.png){: .align-center width="500px"}

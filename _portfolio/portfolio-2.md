@@ -10,8 +10,12 @@ A Self-Driving Car Steering Simulator built using Udacity Car Simulator.
 
 - The output layer has a single unit, and the model is compiled with the mean squared error loss and Adam optimizer for regression tasks.
 
+------
+
 # Track 1
 ![Track_1](/images/Track_1_SDC.jpg){: .align-left width="500px"}
 
-# Track 2
+---
+
 ![Track_2](/images/Track_2_SDC.jpg){: .align-left width="500px"}
+# Track 2
