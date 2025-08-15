@@ -11,45 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Computer Science and Engineering, VIT Bhopal University, 2024
+* B.Tech. in Computer Science and Engineering - VIT Bhopal University, 2024
 
 Work experience
 ======
-* Spring 2024: Research Associate
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Associate** @ Multi-Robot Autonomy Lab, IISER Bhopal : July 2024 - Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Intern** @ Multi-Robot Autonomy Lab, IISER Bhopal : Jan 2024 - July 2024
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Summer Intern** @ Department of CSE, IIT HYderabad, India : May 2023 - July 2023
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ==Programming Languages== : Python, C, C++, MATLAB, Bash
+* ==Tools== : ROS2, Docker, Gazebo Sim, Webots, Blender, Git/GitHub
+* ==Libraries==
+  * sklearn
+  * opencv
+  * numpy
+  * pandas
+  * matplotlib
+  * seaborn
+  * pillow
+  * networkx
+* ==AI / ML Frameworks== : tensorflow, keras, pytorch
+* ==Technical Skills== : Image Processing, Prompt Engineering, Reverse Engineering, Coding
+* ==Soft Skills== : Problem-Solving, Time Management, Self-Learning, Adaptability, Communication, Collaboration
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
