@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Hi 🙂, I'm Aman"
+title: "Aman's Webpage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# Hi 🙂, I'm Aman
 
 <!-- ![something and nothing](/images/profile-pic2.jpg){: .align-right width="300px"} -->
 👨🏻‍💻 I am a software developer and an aspiring <u>AI applied research scientist</u>.
