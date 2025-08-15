@@ -25,7 +25,7 @@ redirect_from:
 - Robotics
 - Computational Imaging
 
-> [! In other words]
+> [!Note]
 > My research interests primarily lie in the areas of deep learning, computer vision, and robotics. In particular, I am highly interested in the applications of deep learning and computer vision in Autonomous Systems and Computational Imaging.
 
 <!-- A data-driven personal website
