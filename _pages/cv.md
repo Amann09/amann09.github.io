@@ -39,6 +39,13 @@ Skills
 * **Technical Skills** : Image Processing, Prompt Engineering, Reverse Engineering, Coding
 * **Soft Skills** : Problem-Solving, Time Management, Self-Learning, Adaptability, Communication, Collaboration
 
+Online Courses / Certifications
+======
+* **Camera and Imaging** - Columbia University by Shree Nayar [↗](https://fpcv.cs.columbia.edu/)
+* **Prompt Engineering for ChatGPT** - Vanderbilt University by Jules White [](https://www.coursera.org/account/accomplishments/certificate/NNNXSQXYZ8QZ)
+* **Deep Learning Specialization**- DeepLearning.AI by Andrew Ng [↗](https://www.coursera.org/account/accomplishments/specialization/certificate/U2MWCFWV7SXD)
+* **Machine Learning Specialization** - Stanford University, Coursera by Andrew Ng [↗](https://www.coursera.org/account/accomplishments/specialization/certificate/PSAASSQBJA44)
+
 <!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -51,12 +58,12 @@ Skills
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
