@@ -16,7 +16,7 @@ redirect_from:
 🤖 I have a keen interest in building AI systems for real-world problems.
 <!-- For the past year and a half, I have been broadly working in the area of machine learning and deep learning, due to which I have created several fundamental and advanced projects. Additionally, I have taken and completed various courses related to these areas. -->
 
-Contact me at <u>**amanansari8472@gmail.com**</u>
+Contact me at <strong><u style="font-size: 15px;">amanansari8472@gmail.com</u></strong>
 
 🔬 Research Interests
 ------
