@@ -21,13 +21,20 @@ Contact me at <strong style="color: #51b7df; font-size: 17px;">amanansari8472@gm
 🔬 Research Interests
 ------
 
-- Structure from Motion (SfM)
+<ul style="font-size: 17px">
+  <li>Structure from Motion (Sfm)</li>
+  <li>3D reconstruction</li>
+  <li>Photogrammetry</li>
+  <li>Perception</li>
+  <li>Computational Imaging</li>
+  <li>Robotics</li>
+</ul>
+<!-- - Structure from Motion (SfM)
 - 3D reconstruction
 - Photogrammetry
 - Perception
 - Computational Imaging
-- Robotics
-
+- Robotics -->
 
 > My research interests primarily lie in the areas of computer vision and robotics. In particular, I am highly interested in studying the applications of computer vision and robotics in 3D modeling, computational imaging and autonomous robotic systems.
 
