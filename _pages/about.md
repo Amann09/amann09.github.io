@@ -9,7 +9,7 @@ redirect_from:
 
 
 <!-- ![something and nothing](/images/profile-pic2.jpg){: .align-right width="300px"} -->
-👨🏻‍💻 I am a software developer and an aspiring <u>AI applied research scientist</u>.
+👨🏻‍💻 I am a software developer and an aspiring <strong style="font-size: 17px; >AI applied research scientist</strong>.
 
 📚 Presently, I work as a research associate at the <strong style="color: #51b7df;font-size: 17px;/* text-decoration: underline; */">Multi-Robot Autonomy Lab (MOON)</strong> [↗](https://moonlab.iiserb.ac.in/), IISER Bhopal. At MOON Lab, I study diverse set of algorithms related to multi agent path finding and field robotics. I am also working on developing a 3D model of the <strong style="color: #51b7df;font-size: 17px;/* text-decoration: underline; */">IISER Bhopal</strong> [↗](https://www.iiserb.ac.in/tour) campus.
 
@@ -29,12 +29,6 @@ Contact me at <strong style="color: #51b7df; font-size: 17px;">amanansari8472@gm
   <li>Computational Imaging</li>
   <li>Robotics</li>
 </ul>
-<!-- - Structure from Motion (SfM)
-- 3D reconstruction
-- Photogrammetry
-- Perception
-- Computational Imaging
-- Robotics -->
 
 > My research interests primarily lie in the areas of computer vision and robotics. In particular, I am highly interested in studying the applications of computer vision and robotics in 3D modeling, computational imaging and autonomous robotic systems.
 
