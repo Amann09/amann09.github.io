@@ -49,6 +49,11 @@ Contact me at <strong style="color: #51b7df; font-size: 17px;">amanansari8472@gm
   - Wrote and tested the code for Data Protection Security Requirements which included understanding and analyzing the data, due to which gained the valuable skill of **Prompt Engineering**.
   - Worked under Professor [Dr. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/) on the Project **"Indian Telecommunication Security Assurance Requirements (ITSAR)"**.
 
+
+📖 Good read
+------
+- A visual introduction to [Big O](https://samwho.dev/big-o/) 
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
