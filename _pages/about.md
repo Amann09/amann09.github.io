@@ -52,7 +52,7 @@ Contact me at <strong style="color: #51b7df; font-size: 17px;">amanansari8472@gm
 
 📖 Good read
 ------
-- A visual introduction to [Big O](https://samwho.dev/big-o/) 
+- A visual introduction to [Big O](https://samwho.dev/big-o/) by Sam Rose
 
 <!-- A data-driven personal website
 ======
