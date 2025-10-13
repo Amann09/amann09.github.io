@@ -33,7 +33,16 @@ Contact me at <strong style="color: #51b7df; font-size: 17px;">amanansari8472@gm
 > My research interests primarily lie in the areas of computer vision and robotics. In particular, I am highly interested in studying the applications of computer vision and robotics in 3D modeling, computational imaging and autonomous robotic systems.
 
 
-👨🏻‍🔬 Experience
+📖 Presentations / Talks
+------
+-  **EECS Research Symposium** - [EcoBoat: an autonomous body-board boat ↗](https://docs.google.com/presentation/d/184N_BPyElm7EtMWhPv7euI0W_D04XZdy/edit?usp=sharing&ouid=109816370411014152738&rtpof=true&sd=true)
+
+
+📖 Good read
+------
+- A visual introduction to [Big O](https://samwho.dev/big-o/) by Sam Rose
+
+<!-- 👨🏻‍🔬 Experience
 ------
 
 - [Research Associate](https://moonlab.iiserb.ac.in/) - **Multi-Robot Autonomy Lab, IISER Bhopal**
@@ -47,16 +56,7 @@ Contact me at <strong style="color: #51b7df; font-size: 17px;">amanansari8472@gm
 
 - [Summer Intern](https://cse.iith.ac.in/) - **Department of CSE - IIT, Hyderabad**
   - Wrote and tested the code for Data Protection Security Requirements which included understanding and analyzing the data, due to which gained the valuable skill of **Prompt Engineering**.
-  - Worked under Professor [Dr. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/) on the Project **"Indian Telecommunication Security Assurance Requirements (ITSAR)"**.
-
-📖 Presentations / Talks
-------
--  **EECS Research Symposium** - [EcoBoa: an autonomous body-board boat ↗](presentations\EcoBoat\EcoBoat_v1.pptx)
-
-
-📖 Good read
-------
-- A visual introduction to [Big O](https://samwho.dev/big-o/) by Sam Rose
+  - Worked under Professor [Dr. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/) on the Project **"Indian Telecommunication Security Assurance Requirements (ITSAR)"**. -->
 
 <!-- A data-driven personal website
 ======
