@@ -42,7 +42,7 @@ Contact me at <strong style="color: #51b7df; font-size: 17px;">amanansari8472@gm
 ------
 - A visual introduction to [Big O](https://samwho.dev/big-o/) by Sam Rose
 
-<!-- 👨🏻‍🔬 Experience
+👨🏻‍🔬 Experience
 ------
 
 - [Research Associate](https://moonlab.iiserb.ac.in/) - **Multi-Robot Autonomy Lab, IISER Bhopal**
@@ -56,7 +56,7 @@ Contact me at <strong style="color: #51b7df; font-size: 17px;">amanansari8472@gm
 
 - [Summer Intern](https://cse.iith.ac.in/) - **Department of CSE - IIT, Hyderabad**
   - Wrote and tested the code for Data Protection Security Requirements which included understanding and analyzing the data, due to which gained the valuable skill of **Prompt Engineering**.
-  - Worked under Professor [Dr. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/) on the Project **"Indian Telecommunication Security Assurance Requirements (ITSAR)"**. -->
+  - Worked under Professor [Dr. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/) on the Project **"Indian Telecommunication Security Assurance Requirements (ITSAR)"**.
 
 <!-- A data-driven personal website
 ======

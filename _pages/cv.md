@@ -15,11 +15,24 @@ Education
 
 Work experience
 ======
-* **Research Associate** @ Multi-Robot Autonomy Lab, IISER Bhopal : July 2024 - Present
+- [Research Associate](https://moonlab.iiserb.ac.in/) - **Multi-Robot Autonomy Lab, IISER Bhopal**
+  - Working on developing a 3D model of the whole IISERB campus using Photogrammetry techniques.
+  - Working on a design of an Autonomous Body-Board Boat for surface cleaning of water bodies. Do check out the design on [this](https://github.com/Amann09/pool_cleaning_with_net_structure) page.
+
+- [Research Intern](https://moonlab.iiserb.ac.in/) - **Multi-Robot Autonomy Lab, IISER Bhopal**
+  - Developed a coverage path planning method for a multi-robotic system: Tethered UAV-UGV System, under the guidance of Prof. [Dr. P.B. Sujit](https://scholar.google.com/citations?user=qqwyAwoAAAAJ&hl=en)
+  - Developed the controller's software architecture for UAV and UGV to traverse in a given simulation environment.
+
+
+- [Summer Intern](https://cse.iith.ac.in/) - **Department of CSE - IIT, Hyderabad**
+  - Wrote and tested the code for Data Protection Security Requirements which included understanding and analyzing the data, due to which gained the valuable skill of **Prompt Engineering**.
+  - Worked under Professor [Dr. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/) on the Project **"Indian Telecommunication Security Assurance Requirements (ITSAR)"**.
+
+<!-- * **Research Associate** @ Multi-Robot Autonomy Lab, IISER Bhopal : July 2024 - Present
 
 * **Research Intern** @ Multi-Robot Autonomy Lab, IISER Bhopal : Jan 2024 - July 2024
 
-* **Summer Intern** @ Department of CSE, IIT HYderabad, India : May 2023 - July 2023
+* **Summer Intern** @ Department of CSE, IIT HYderabad, India : May 2023 - July 2023 -->
 
   
 Skills
