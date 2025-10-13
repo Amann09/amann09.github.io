@@ -49,6 +49,10 @@ Contact me at <strong style="color: #51b7df; font-size: 17px;">amanansari8472@gm
   - Wrote and tested the code for Data Protection Security Requirements which included understanding and analyzing the data, due to which gained the valuable skill of **Prompt Engineering**.
   - Worked under Professor [Dr. Abhinav Kumar](https://people.iith.ac.in/abhinavkumar/) on the Project **"Indian Telecommunication Security Assurance Requirements (ITSAR)"**.
 
+📖 Presentations / Talks
+------
+-  **EECS Research Symposium** - [EcoBoa: an autonomous body-board boat ↗](presentations\EcoBoat\EcoBoat_v1.pptx)
+
 
 📖 Good read
 ------
