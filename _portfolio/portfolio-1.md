@@ -8,6 +8,8 @@ collection: portfolio
 
 ## An autonomous body-board boat for cleaning water bodies.
 
+![EcoBoat](/images/EcoBoat_in_pool.jpg){: .align-center width="500px"}
+
 - Developed the random path planning algorithm’s logic for the robot with added net structure to navigate with the help of distance sensors in Webots simulation.
 <!-- ![Track_1](/images/Track_1_SDC.jpg){: .align-left width="300px"} -->
 
@@ -17,8 +19,8 @@ collection: portfolio
 
 
 --------
+## Webots Simulation
 <center>
-<iframe width="600" height="315" src="https://youtu.be/NnsBjuA5rr8">
-</iframe> 
+    <iframe width="600" height="315" src="https://www.youtube.com/embed/NnsBjuA5rr8"></iframe> 
 </center>
-![EcoBoat](/images/EcoBoat_in_pool.jpg){: .align-center width="500px"}
+
