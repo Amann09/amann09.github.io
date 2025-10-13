@@ -17,5 +17,8 @@ collection: portfolio
 
 
 --------
-![Watch the video](https://youtu.be/NnsBjuA5rr8)
+<center>
+<iframe width="600" height="315" src="https://youtu.be/NnsBjuA5rr8">
+</iframe> 
+</center>
 ![EcoBoat](/images/EcoBoat_in_pool.jpg){: .align-center width="500px"}
