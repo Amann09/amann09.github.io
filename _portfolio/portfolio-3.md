@@ -1,15 +1,22 @@
 ---
-title: "Rock Paper Scissors Classification using MobileNet V2"
-excerpt: "This project employs a Rock Paper Scissors Classification system by leveraging MobileNet V2, a powerful neural network architecture.<br/><img src='/images/rock_paper_scissors.jpg' width='600'>"
+title: "Self Driving Car"
+excerpt: "It is an implementation of NVIDIA's End to End Learning for Self-Driving Cars research [paper](https://arxiv.org/pdf/1604.07316).<br/><img src='/images/Track_1_SDC.jpg' width='600'>"
 collection: portfolio
 ---
 
-Rock Paper Scissors Classifier system using MobileNet V2 CNN architecture.
+A Self-Driving Car Steering Simulator built using Udacity Car Simulator.
 
-- The model is capable of discerning and categorizing hand gestures into rock, paper, or scissors by analyzing images. The system accomplishes this through the use of deep learning techniques, utilizing MobileNet V2's pre-trained features to identify key patterns in the images.
+- It consists of 4 convolutional layers with increasing filter sizes, followed by 3 fully connected layers.
 
-- This enables the model to make accurate predictions based on input images, delivering a robust classification solution for the game of Rock, Paper, Scissors.
+- The output layer has a single unit, and the model is compiled with the mean squared error loss and Adam optimizer for regression tasks.
 
--------
+- Implementation can be found on [GitHub ↗](https://github.com/Amann09/Self-Driving-Car/tree/main).
 
-![rock_paper_scissor](/images/rock_paper_scissors.jpg){: .align-center width="500px"}
+------
+
+# Track 1
+![Track_1](/images/Track_1_SDC.jpg){: .align-left width="500px"}
+
+
+# Track 2
+![Track_2](/images/Track_2_SDC.jpg){: .align-right width="500px"}

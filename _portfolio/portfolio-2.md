@@ -1,20 +1,26 @@
 ---
-title: "Self Driving Car"
-excerpt: "It is an implementation of NVIDIA's End to End Learning for Self-Driving Cars research [paper](https://arxiv.org/pdf/1604.07316).<br/><img src='/images/Track_1_SDC.jpg' width='600'>"
+title: "EcoBoat"
+excerpt: "An autonomous body-board boat for cleaning water bodies.<br/><img src='/images/EcoBoat_in_pool.jpg' width='600'>"
 collection: portfolio
 ---
 
-A Self-Driving Car Steering Simulator built using Udacity Car Simulator.
+<!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
 
-- It consists of 4 convolutional layers with increasing filter sizes, followed by 3 fully connected layers.
+## An autonomous body-board boat for cleaning water bodies.
 
-- The output layer has a single unit, and the model is compiled with the mean squared error loss and Adam optimizer for regression tasks.
+![EcoBoat](/images/EcoBoat_in_pool.jpg){: .align-center width="500px"}
 
-------
+- Developed the random path planning algorithm’s logic for the robot with added net structure to navigate with the help of distance sensors in Webots simulation.
+<!-- ![Track_1](/images/Track_1_SDC.jpg){: .align-left width="300px"} -->
 
-# Track 1
-![Track_1](/images/Track_1_SDC.jpg){: .align-left width="500px"}
+- Designed the net structure such that it collects the maximum amount of garbage and retain it.
+
+- Design and Implementation for EcoBoat, can be found [here ↗](https://github.com/Amann09/pool_cleaning_with_net_structure).
 
 
-# Track 2
-![Track_2](/images/Track_2_SDC.jpg){: .align-right width="500px"}
+--------
+## Webots Simulation
+<center>
+    <iframe width="600" height="315" src="https://www.youtube.com/embed/NnsBjuA5rr8"></iframe> 
+</center>
+

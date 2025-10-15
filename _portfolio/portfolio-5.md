@@ -1,14 +1,15 @@
 ---
-title: "Vehicle Tracking and Counting System"
-excerpt: "This project employs a Rock Paper Scissors Classification system by leveraging MobileNet V2, a powerful neural network architecture.<br/><img src='/images/vehicle_tracking_and_counting.png' width='600'>"
+title: "Real-Time: Parking Spot Detection System"
+excerpt: "This project employs a Rock Paper Scissors Classification system by leveraging MobileNet V2, a powerful neural network architecture.<br/><img src='/images/parking_spot_detection.png' width='600'>"
 collection: portfolio
 ---
 
-Vehicle Tracking and Counting System
+Real-Time: Parking Spot Detection System
 
-- The Vehicle Counting System aims to count the number of vehicles passed by in a particular region of interest.
-- Can be used as an efficient system for tracking and monitoring vehicles in real-time.
+- Parking Spot Detection System identifies the availability of parking spots in real-time.
+- It achieves this by analyzing the difference between consecutive frames and uses a pre-defined mask to isolate parking spots.
+- It reads video data from a specified file, processes each frame, and calculates the difference between frames to detect changes in parking spot occupancy.
 
 -------
 
-![parking_spot](/images/vehicle_tracking_and_counting.png){: .align-center width="500px"}
+![parking_spot](/images/parking_spot_detection.png){: .align-center width="500px"}

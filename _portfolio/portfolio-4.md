@@ -1,15 +1,17 @@
 ---
-title: "Real-Time: Parking Spot Detection System"
-excerpt: "This project employs a Rock Paper Scissors Classification system by leveraging MobileNet V2, a powerful neural network architecture.<br/><img src='/images/parking_spot_detection.png' width='600'>"
+title: "Rock Paper Scissors Classification using MobileNet V2"
+excerpt: "This project employs a Rock Paper Scissors Classification system by leveraging MobileNet V2, a powerful neural network architecture.<br/><img src='/images/rock_paper_scissors.jpg' width='600'>"
 collection: portfolio
 ---
 
-Real-Time: Parking Spot Detection System
+Rock Paper Scissors Classifier system using MobileNet V2 CNN architecture.
 
-- Parking Spot Detection System identifies the availability of parking spots in real-time.
-- It achieves this by analyzing the difference between consecutive frames and uses a pre-defined mask to isolate parking spots.
-- It reads video data from a specified file, processes each frame, and calculates the difference between frames to detect changes in parking spot occupancy.
+- The model is capable of discerning and categorizing hand gestures into rock, paper, or scissors by analyzing images. The system accomplishes this through the use of deep learning techniques, utilizing MobileNet V2's pre-trained features to identify key patterns in the images.
+
+- This enables the model to make accurate predictions based on input images, delivering a robust classification solution for the game of Rock, Paper, Scissors.
+
+- Implementation can be found on [GitHub ↗](https://github.com/Amann09/CV-Projects/tree/main/Rock%20Paper%20Scissors%20Classification%20using%20MobileNet%20V2).
 
 -------
 
-![parking_spot](/images/parking_spot_detection.png){: .align-center width="500px"}
+![rock_paper_scissor](/images/rock_paper_scissors.jpg){: .align-center width="500px"}
