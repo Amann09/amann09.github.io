@@ -8,7 +8,7 @@ collection: portfolio
 
 ### Denoising and Inpainting of corrupted images using only architectural priors.
 
--  Implemented ![Deep Image Prior ↗](https://arxiv.org/abs/1711.10925) research paper using U-Net, a deep learning architecture, enabling single-image restoration without a training dataset.
+-  Implemented [Deep Image Prior ↗](https://arxiv.org/abs/1711.10925) research paper using U-Net, a deep learning architecture, enabling single-image restoration without a training dataset.
 
 - Demonstrated the model on real and synthetic images, achieving high-quality restoration.
 
