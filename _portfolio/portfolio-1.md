@@ -15,7 +15,6 @@ collection: portfolio
 - Implementation can be found on [GitHub ↗](https://github.com/Amann09/U_Net_Arch_Deep_Image_Prior).
 
 
---------
 ## Task: Denoising
 ![Denosing](/images/restoration_img_1.png){: .align-center width="800px"}
 ## Task: Inpainting
