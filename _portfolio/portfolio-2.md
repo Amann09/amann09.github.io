@@ -1,6 +1,6 @@
 ---
 title: "EcoBoat"
-excerpt: "An autonomous body-board boat for cleaning water bodies.<br/><img src='/images/EcoBoat_in_pool.jpg' width='600' style='margin-top: 15px;'>"
+excerpt: "An autonomous body-board boat for cleaning water bodies. <img src='/images/EcoBoat_in_pool.jpg' width='600' style=' .align-center width='500px' margin-top: 15px;'>"
 collection: portfolio
 ---
 
