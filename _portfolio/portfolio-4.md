@@ -1,6 +1,6 @@
 ---
 title: "Rock Paper Scissors Classification using MobileNet V2"
-excerpt: "This project employs a Rock Paper Scissors Classification system by leveraging MobileNet V2, a powerful neural network architecture.<br/><img src='/images/rock_paper_scissors.jpg' width='600' style='margin-top: 15px;'>"
+excerpt: "This project employs a Rock Paper Scissors Classification system by leveraging MobileNet V2, a powerful neural network architecture. <img src='/images/rock_paper_scissors.jpg' width='600' style='margin-top: 15px;'>"
 collection: portfolio
 ---
 

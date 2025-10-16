@@ -1,6 +1,6 @@
 ---
 title: "Image Restoration for inverse problems using Deep Image Prior"
-excerpt: "Denoising and Inpainting of corrupted images using only architectural priors. <br/><img src='/images/restoration_img_2.png' width='700'>"
+excerpt: "Denoising and Inpainting of corrupted images using only architectural priors. <img src='/images/restoration_img_2.png' width='700'>"
 collection: portfolio
 ---
 
