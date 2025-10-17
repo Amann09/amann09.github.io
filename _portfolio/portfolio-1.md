@@ -17,6 +17,6 @@ collection: portfolio
 
 ## Task: Denoising
 ![Denosing](/images/restoration_img_1.png){: .align-center width="800px"}
-## Task: Inpainting
 
+## Task: Inpainting
 ![Inpainting](/images/restoration_img_2.png){: .align-center width="800px"}
