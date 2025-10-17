@@ -13,7 +13,7 @@ redirect_from:
 
 📚 Presently, I work as a research associate at the <strong style="color: #51b7df;font-size: 17px;/* text-decoration: underline; */">Multi-Robot Autonomy Lab (MOON)</strong> [↗](https://moonlab.iiserb.ac.in/), IISER Bhopal. At MOON Lab, I study diverse set of algorithms related to multi agent systems and field robotics. I am also working on developing a 3D model of the <strong style="color: #51b7df;font-size: 17px;/* text-decoration: underline; */">IISER Bhopal</strong> [↗](https://www.iiserb.ac.in/tour) campus.
 
-🤖 I have a keen interest in building AI systems for real-world problems.
+🤖 I am interested in developing novel methods and algorithms that bring us closer to truly intelligent AI systems for solving complex real-world problems.
 
 Contact me at <strong style="color: #51b7df; font-size: 17px;">amanansari8472@gmail.com</strong>
 
