@@ -9,7 +9,7 @@ redirect_from:
 
 
 <!-- ![something and nothing](/images/profile-pic2.jpg){: .align-right width="300px"} -->
-## Hi 🙂, I'm Aman!
+### Hi 🙂, I'm Aman!
 <!-- ------ -->
 
 👨🏻‍💻 I'm a software developer and an aspiring <strong style="font-size: 17px; color: #51b7df;" >AI applied research scientist</strong>.
