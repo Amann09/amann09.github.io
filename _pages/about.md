@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi 🙂, I'm Aman"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,11 +9,15 @@ redirect_from:
 
 
 <!-- ![something and nothing](/images/profile-pic2.jpg){: .align-right width="300px"} -->
-👨🏻‍💻 I am a software developer and an aspiring <strong style="font-size: 17px; color: #51b7df;" >AI applied research scientist</strong>.
+Hi 🙂, I'm Aman!
+------
+👨🏻‍💻 I'm a software developer and an aspiring <strong style="font-size: 17px; color: #51b7df;" >AI applied research scientist</strong>.
 
-📚 Presently, I work as a research associate at the <strong style="color: #51b7df;font-size: 17px;/* text-decoration: underline; */">Multi-Robot Autonomy Lab (MOON)</strong> [↗](https://moonlab.iiserb.ac.in/), IISER Bhopal. At MOON Lab, I study diverse set of algorithms related to multi agent systems and field robotics. I am also working on developing a 3D model of the <strong style="color: #51b7df;font-size: 17px;/* text-decoration: underline; */">IISER Bhopal</strong> [↗](https://www.iiserb.ac.in/tour) campus.
+📚 Presently, I work as a research associate at the <strong style="color: #51b7df;font-size: 17px;/* text-decoration: underline; */">Multi-Robot Autonomy (MOON) Lab </strong> [↗](https://moonlab.iiserb.ac.in/), IISER Bhopal. At MOON Lab, I study diverse set of algorithms related to multi agent systems and field robotics. I am also working on developing a 3D model of the <strong style="color: #51b7df;font-size: 17px;/* text-decoration: underline; */">IISER Bhopal</strong> [↗](https://www.iiserb.ac.in/tour) campus.
 
 🤖 I am interested in developing novel methods and algorithms that bring us closer to truly intelligent AI systems for solving complex real-world problems.
+
+<!-- I like to implement research papers into code and learn new concepts on the fly. -->
 
 Contact me at <strong style="color: #51b7df; font-size: 17px;">amanansari8472@gmail.com</strong>
 
