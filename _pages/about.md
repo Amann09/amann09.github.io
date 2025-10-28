@@ -20,7 +20,8 @@ redirect_from:
 
 <!-- I like to implement research papers into code and learn new concepts on the fly. -->
 
-I am always open to talking about research ideas. Contact me at <strong style="color: #51b7df; font-size: 17px;">amanansari8472@gmail.com</strong> or DM me on <i class="fa-brands fa-linkedin"></i>.
+I am always open to talking about research ideas. Feel free to email me at <strong style="color: #51b7df; font-size: 17px;">amanansari8472@gmail.com</strong>
+<!-- or DM me on <i class="fa-brands fa-linkedin"></i> -->
 
 🔬 Research Interests
 ------
