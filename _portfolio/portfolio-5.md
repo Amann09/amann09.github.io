@@ -1,6 +1,6 @@
 ---
 title: "Real-Time: Parking Spot Detection System"
-excerpt: "This project employs a Rock Paper Scissors Classification system by leveraging MobileNet V2, a powerful neural network architecture. <img src='/images/parking_spot_detection.png' width='600' style='margin-top: 15px;'>"
+excerpt: "This project employs a Rock Paper Scissors Classification system by leveraging MobileNet V2, a powerful neural network architecture. <br> <img src='/images/parking_spot_detection.png' width='600' style='margin-top: 15px;'>"
 collection: portfolio
 ---
 
