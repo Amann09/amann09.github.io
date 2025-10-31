@@ -15,7 +15,7 @@ redirect_from:
 👨🏻‍💻 I’m a research associate at the <strong style="color: #51b7df;font-size: 17px;/* text-decoration: underline; */">Multi-Robot Autonomy (MOON) Lab </strong> [↗](https://moonlab.iiserb.ac.in/), IISER Bhopal. Prior to this, I completed my bachelors in computer science and engineering from VIT Bhopal University.
 
 
-📚 At MOON Lab, I study diverse set of algorithms related to multi-agent systems and field robotics. In addition to this, I am currently working on developing a 3D model of the whole <strong style="color: #51b7df;font-size: 17px;/* text-decoration: underline; */">IISER Bhopal</strong> [↗](https://www.iiserb.ac.in/tour) campus, which has further strengthened my interest in computational modeling for robotics.
+📚 At ***MOON*** Lab, I study diverse set of algorithms related to multi-agent systems and field robotics. In addition to this, I am currently working on developing a 3D model of the whole <strong style="color: #51b7df;font-size: 17px;/* text-decoration: underline; */">IISER Bhopal</strong> [↗](https://www.iiserb.ac.in/tour) campus, which has further strengthened my interest in computational modeling for robotics.
 
 
 🤖 I am interested in developing novel methods and algorithms that bring us closer to truly intelligent AI systems for solving complex real-world problems. In line with this interest, I enjoy implementing research papers into code and learning new concepts on the fly.
