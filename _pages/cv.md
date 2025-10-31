@@ -46,7 +46,7 @@ Skills
 
 Online Courses / Certifications
 ======
-* **Camera and Imaging** - Columbia University by Shree Nayar [↗](https://fpcv.cs.columbia.edu/)
+* **Camera and Imaging** - Columbia University by Shree Nayar [<i class="fa fa-external-link" style="font-size:24px"></i>](https://fpcv.cs.columbia.edu/)
 * **Prompt Engineering for ChatGPT** - Vanderbilt University by Jules White [↗](https://www.coursera.org/account/accomplishments/certificate/NNNXSQXYZ8QZ)
 * **Deep Learning Specialization**- DeepLearning.AI by Andrew Ng [↗](https://www.coursera.org/account/accomplishments/specialization/certificate/U2MWCFWV7SXD)
 * **Machine Learning Specialization** - Stanford University, Coursera by Andrew Ng [↗](https://www.coursera.org/account/accomplishments/specialization/certificate/PSAASSQBJA44)
